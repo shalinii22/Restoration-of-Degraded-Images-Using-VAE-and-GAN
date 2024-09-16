@@ -1,7 +1,7 @@
 # Restoration-of-Degraded-Images-Using-VAE-and-GAN
 This project is my final year project implementation and is all about restoring Degraded Images using VAE and GAN.
 
-## Demo
+## Demoo
 
 ![image](https://user-images.githubusercontent.com/48184601/184223352-e1368dae-fc9f-47d5-bfb9-7d654fa7b82d.png)
 
